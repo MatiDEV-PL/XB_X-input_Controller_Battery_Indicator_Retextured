@@ -1,4 +1,4 @@
-# XBox One Controller Battery Indicator
+# XBox One Controller Battery Indicator Moded
 A tray application that shows a battery indicator for an Xbox-ish controller and gives a notification when the battery level drops to (almost) empty. 
 
 It was originally written for the XBox One controller since Microsoft dropped all visual hints for low battery, but it should work with any gamepad that can be addressed via XInput (which should be all controllers that work in XBox-controller-enabled games).
