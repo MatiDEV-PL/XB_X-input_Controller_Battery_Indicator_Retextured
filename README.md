@@ -9,7 +9,7 @@ It was originally written for the XBox One controller since Microsoft dropped al
 
 When more than one controller is present, the tray icon will cycle through the status display every 5 seconds.
 
-![Tray icon](https://i.imgur.com/vxQ5bys.gif "Tray icon cycling through multiple controllers")
+![Tray icon](https://i.imgur.com/PLRJ94M.png "Tray icon cycling through multiple controllers")
 
 When a controller reaches low battery level, a notification is displayed.  
 
