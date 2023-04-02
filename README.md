@@ -4,9 +4,6 @@ In moded verison there were made changes to icons.
 
 It was originally written for the XBox One controller since Microsoft dropped all visual hints for low battery, but it should work with any gamepad that can be addressed via XInput (which should be all controllers that work in XBox-controller-enabled games).
 
-**Download link for a "ready to run" version at the bottom of this page(or under "Releases" in the side bar)!**  
-(The green download button at the top is for the source code package)
-
 When more than one controller is present, the tray icon will cycle through the status display every 5 seconds.
 
 ![Tray icon](https://i.imgur.com/PLRJ94M.png "Tray icon cycling through multiple controllers")
