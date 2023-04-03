@@ -10,7 +10,7 @@ The typical size of the taskbar:
                                                         
 In a larger size (just because, why not?):
 
-![Tray icon](https://i.imgur.com/A8l6scC.gif=64x64)
+![Tray icon](https://i.imgur.com/BqiRGXX.gif)
 
 When a controller reaches low battery level, a notification is displayed.  
 
