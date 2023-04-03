@@ -3,7 +3,7 @@ A tray application that shows a battery indicator for an Xbox-ish controller and
 In retextured verison there were made changes to icons.
 
 When more than one controller is present, the tray icon will cycle through the status display every 5 seconds.
-Standard taskbar size: 
+                  Standard taskbar size: 
 ![Tray icon](https://i.imgur.com/HDyam7O.gif "Tray icon cycling through multiple controllers")
 In bigger size:
 ![Tray icon](https://i.imgur.com/A8l6scC.gif)
