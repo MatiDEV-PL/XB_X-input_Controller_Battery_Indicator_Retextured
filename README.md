@@ -1,4 +1,4 @@
-# XBox One Controller Battery Indicator Moded
+# Xbox X-input Controller Battery Indicator Retextured
 A tray application that shows a battery indicator for an Xbox-ish controller and gives a notification when the battery level drops to (almost) empty. 
 In moded verison there were made changes to icons.
 
