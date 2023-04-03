@@ -6,7 +6,7 @@ When more than one controller is present, the tray icon will cycle through the s
 
 The typical size of the taskbar:              
 
-![Tray icon](https://i.imgur.com/WToTgBu.gif)
+![Tray icon](https://i.imgur.com/0hjGORC.gif)
                                                         
 In a larger size (just because, why not?):
 
