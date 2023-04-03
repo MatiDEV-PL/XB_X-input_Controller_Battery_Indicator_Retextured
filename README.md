@@ -4,7 +4,7 @@ In retextured verison there were made changes to icons.
 
 When more than one controller is present, the tray icon will cycle through the status display every 5 seconds.
 
-The typical size of the taskbar:              
+The standard size of the taskbar:              
 
 ![Tray icon](https://i.imgur.com/0hjGORC.gif)
                                                         
