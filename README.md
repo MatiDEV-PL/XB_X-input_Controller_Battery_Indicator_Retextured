@@ -4,7 +4,7 @@ In retextured verison there were made changes to icons.
 
 When more than one controller is present, the tray icon will cycle through the status display every 5 seconds.
 
-![Tray icon](https://i.imgur.com/HDyam7O.gif "Tray icon cycling through multiple controllers")
+Standard taskbar: ![Tray icon](https://i.imgur.com/HDyam7O.gif "Tray icon cycling through multiple controllers") In bigger size: ![Tray icon](https://i.imgur.com/A8l6scC.gif)
 
 When a controller reaches low battery level, a notification is displayed.  
 
