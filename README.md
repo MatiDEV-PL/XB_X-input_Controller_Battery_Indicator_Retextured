@@ -1,4 +1,4 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://github.com/MatiDEV-PL/XB_X-input_Controller_Battery_Indicator_Retextured/blob/main/LICENSE) 
+[![License: GPL v2](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://github.com/MatiDEV-PL/XB_X-input_Controller_Battery_Indicator_Retextured/blob/main/LICENSE) 
 # Xbox X-input Controller Battery Indicator Retextured
 A tray application that shows a battery indicator for an Xbox-ish controller and gives a notification when the battery level drops to (almost) empty. 
 In retextured verison there were made changes to icons.
